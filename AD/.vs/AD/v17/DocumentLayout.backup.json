@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tharun\\source\\repos\\AD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|c:\\users\\tharun\\source\\repos\\ad\\ad\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\forms\\carpartsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\forms\\carpartsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\forms\\carpartsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\forms\\carpartsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\forms\\carform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\forms\\carform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\forms\\carform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\forms\\carform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\forms\\customerorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\forms\\customerorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\forms\\customerorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\forms\\customerorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\customer\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\vieworderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\customer\\vieworderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\searchcarpartsfom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\customer\\searchcarpartsfom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\searchcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\customer\\searchcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\customer\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\searchcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\customer\\searchcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\vieworderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\customer\\vieworderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\searchcarpartsfom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\customer\\searchcarpartsfom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerOrderForm.cs",
+              "RelativeDocumentMoniker": "AD\\Forms\\CustomerOrderForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerOrderForm.cs",
+              "RelativeToolTip": "AD\\Forms\\CustomerOrderForm.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAD4v70AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:28:03.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "AD\\Forms\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerForm.cs",
+              "RelativeToolTip": "AD\\Forms\\CustomerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:28:00.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarpartsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarpartsForm.cs",
+              "RelativeDocumentMoniker": "AD\\Forms\\CarpartsForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarpartsForm.cs",
+              "RelativeToolTip": "AD\\Forms\\CarpartsForm.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAIwKMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:27:55.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\LoginForm.cs",
+              "RelativeDocumentMoniker": "AD\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\LoginForm.cs",
+              "RelativeToolTip": "AD\\LoginForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:23:03.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\LoginForm.cs",
+              "RelativeDocumentMoniker": "AD\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\LoginForm.cs [Design]",
+              "RelativeToolTip": "AD\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:22:54.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Form1.cs",
+              "RelativeDocumentMoniker": "AD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Form1.cs [Design]",
+              "RelativeToolTip": "AD\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:29:23.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerOrderForm.cs",
+              "RelativeDocumentMoniker": "AD\\Forms\\CustomerOrderForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerOrderForm.cs [Design]",
+              "RelativeToolTip": "AD\\Forms\\CustomerOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:33:27.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\OrderForm.cs",
+              "RelativeDocumentMoniker": "AD\\Customer\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\OrderForm.cs [Design]",
+              "RelativeToolTip": "AD\\Customer\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:07:40.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\ViewOrderForm.cs",
+              "RelativeDocumentMoniker": "AD\\Customer\\ViewOrderForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\ViewOrderForm.cs",
+              "RelativeToolTip": "AD\\Customer\\ViewOrderForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:55:34.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "AD\\Forms\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "AD\\Forms\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:54:22.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SearchCarpartsFom.cs",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\SearchCarpartsFom.cs",
+              "RelativeDocumentMoniker": "AD\\Customer\\SearchCarpartsFom.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\SearchCarpartsFom.cs",
+              "RelativeToolTip": "AD\\Customer\\SearchCarpartsFom.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:49:10.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarpartsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarpartsForm.cs",
+              "RelativeDocumentMoniker": "AD\\Forms\\CarpartsForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarpartsForm.cs [Design]",
+              "RelativeToolTip": "AD\\Forms\\CarpartsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:47:38.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarForm.cs",
+              "RelativeDocumentMoniker": "AD\\Forms\\CarForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarForm.cs",
+              "RelativeToolTip": "AD\\Forms\\CarForm.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAD4v8MAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:38:22.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchCarForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\SearchCarForm.cs",
+              "RelativeDocumentMoniker": "AD\\Customer\\SearchCarForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\SearchCarForm.cs",
+              "RelativeToolTip": "AD\\Customer\\SearchCarForm.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwDkAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:30:06.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Form2.cs",
+              "RelativeDocumentMoniker": "AD\\Form2.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Form2.cs [Design]",
+              "RelativeToolTip": "AD\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T04:58:11.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\OrderForm.cs",
+              "RelativeDocumentMoniker": "AD\\Customer\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\OrderForm.cs",
+              "RelativeToolTip": "AD\\Customer\\OrderForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T04:54:16.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\ViewOrderForm.cs",
+              "RelativeDocumentMoniker": "AD\\Customer\\ViewOrderForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\ViewOrderForm.cs [Design]",
+              "RelativeToolTip": "AD\\Customer\\ViewOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:07:49.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SearchCarpartsFom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\SearchCarpartsFom.cs",
+              "RelativeDocumentMoniker": "AD\\Customer\\SearchCarpartsFom.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\SearchCarpartsFom.cs [Design]",
+              "RelativeToolTip": "AD\\Customer\\SearchCarpartsFom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:07:43.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchCarForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\SearchCarForm.cs",
+              "RelativeDocumentMoniker": "AD\\Customer\\SearchCarForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\SearchCarForm.cs [Design]",
+              "RelativeToolTip": "AD\\Customer\\SearchCarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:07:41.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarForm.cs",
+              "RelativeDocumentMoniker": "AD\\Forms\\CarForm.cs",
+              "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarForm.cs [Design]",
+              "RelativeToolTip": "AD\\Forms\\CarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:07:08.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

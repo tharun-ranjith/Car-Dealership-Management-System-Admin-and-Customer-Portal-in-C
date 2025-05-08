@@ -32,11 +32,13 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.txtCustomerAddress = new System.Windows.Forms.TextBox();
             this.txtCustomerName = new System.Windows.Forms.TextBox();
+            this.txtCustomerID = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.txtCustomerEmail = new System.Windows.Forms.TextBox();
             this.txtTelephoneNo = new System.Windows.Forms.TextBox();
@@ -46,10 +48,11 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.aBCDataSet = new AD.ABCDataSet();
             this.customerTableBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.label2 = new System.Windows.Forms.Label();
-            this.txtCustomerID = new System.Windows.Forms.TextBox();
+            this.customerTableTableAdapter = new AD.ABCDataSetTableAdapters.CustomerTableTableAdapter();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.aBCDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.customerTableBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
@@ -77,6 +80,13 @@
             this.txtCustomerName.Name = "txtCustomerName";
             this.txtCustomerName.Size = new System.Drawing.Size(145, 22);
             this.txtCustomerName.TabIndex = 33;
+            // 
+            // txtCustomerID
+            // 
+            this.txtCustomerID.Location = new System.Drawing.Point(163, 121);
+            this.txtCustomerID.Name = "txtCustomerID";
+            this.txtCustomerID.Size = new System.Drawing.Size(145, 22);
+            this.txtCustomerID.TabIndex = 32;
             // 
             // label5
             // 
@@ -122,6 +132,15 @@
             this.label3.Size = new System.Drawing.Size(104, 16);
             this.label3.TabIndex = 20;
             this.label3.Text = "Customer Name";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(49, 121);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(80, 16);
+            this.label2.TabIndex = 19;
+            this.label2.Text = "Customer ID";
             // 
             // label1
             // 
@@ -204,25 +223,19 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // aBCDataSet
+            // 
+            this.aBCDataSet.DataSetName = "ABCDataSet";
+            this.aBCDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
             // customerTableBindingSource
             // 
             this.customerTableBindingSource.DataMember = "CustomerTable";
+            this.customerTableBindingSource.DataSource = this.aBCDataSet;
             // 
-            // label2
+            // customerTableTableAdapter
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(49, 121);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(80, 16);
-            this.label2.TabIndex = 19;
-            this.label2.Text = "Customer ID";
-            // 
-            // txtCustomerID
-            // 
-            this.txtCustomerID.Location = new System.Drawing.Point(163, 121);
-            this.txtCustomerID.Name = "txtCustomerID";
-            this.txtCustomerID.Size = new System.Drawing.Size(145, 22);
-            this.txtCustomerID.TabIndex = 32;
+            this.customerTableTableAdapter.ClearBeforeFill = true;
             // 
             // CustomerForm
             // 
@@ -252,6 +265,7 @@
             this.Text = "CustomerForm";
             this.Load += new System.EventHandler(this.CustomerForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.aBCDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.customerTableBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -263,11 +277,13 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.TextBox txtCustomerAddress;
         private System.Windows.Forms.TextBox txtCustomerName;
+        private System.Windows.Forms.TextBox txtCustomerID;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtCustomerEmail;
         private System.Windows.Forms.TextBox txtTelephoneNo;
@@ -277,10 +293,8 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
-   //     private ABCDataSet aBCDataSet;
+        private ABCDataSet aBCDataSet;
         private System.Windows.Forms.BindingSource customerTableBindingSource;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox txtCustomerID;
-        //      private ABCDataSetTableAdapters.CustomerTableTableAdapter customerTableTableAdapter;
+        private ABCDataSetTableAdapters.CustomerTableTableAdapter customerTableTableAdapter;
     }
 }

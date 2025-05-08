@@ -14,7 +14,7 @@ namespace AD
     public partial class LoginForm : Form
     {
         // Use a read-only connection string for security
-        private readonly string connectionString = "Data Source=DESKTOP-12HBM5L\\SQLEXPRESS;Initial Catalog=ABC;Integrated Security=True;";
+        private readonly string connectionString = "Data Source=LAPTOP-P7KDLH95\\SQLEXPRESS;Initial Catalog=ABC;Integrated Security=True";
 
         public LoginForm()
         {
@@ -64,7 +64,7 @@ namespace AD
 
                                     if (selectedUserType == "Admin")
                                     {
-                                        Form1 adminForm = new Form1();
+                                        MainForm adminForm = new MainForm();
                                         adminForm.Show();
                                         this.Hide();
                                     }

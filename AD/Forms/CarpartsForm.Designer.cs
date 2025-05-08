@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.txtCarPartPrice = new System.Windows.Forms.TextBox();
-            this.dataGridViewCarParts = new System.Windows.Forms.DataGridView();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.txtStockQuantity = new System.Windows.Forms.TextBox();
             this.txtCarPartName = new System.Windows.Forms.TextBox();
             this.txtCarPartID = new System.Windows.Forms.TextBox();
@@ -45,7 +45,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.cmbCarPartType = new System.Windows.Forms.ComboBox();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCarParts)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // txtCarPartPrice
@@ -55,15 +55,15 @@
             this.txtCarPartPrice.Size = new System.Drawing.Size(145, 22);
             this.txtCarPartPrice.TabIndex = 70;
             // 
-            // dataGridViewCarParts
+            // dataGridView1
             // 
-            this.dataGridViewCarParts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewCarParts.Location = new System.Drawing.Point(57, 320);
-            this.dataGridViewCarParts.Name = "dataGridViewCarParts";
-            this.dataGridViewCarParts.RowHeadersWidth = 51;
-            this.dataGridViewCarParts.RowTemplate.Height = 24;
-            this.dataGridViewCarParts.Size = new System.Drawing.Size(963, 192);
-            this.dataGridViewCarParts.TabIndex = 69;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(57, 320);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.Size = new System.Drawing.Size(963, 192);
+            this.dataGridView1.TabIndex = 69;
             // 
             // txtStockQuantity
             // 
@@ -216,7 +216,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtCarPartPrice);
-            this.Controls.Add(this.dataGridViewCarParts);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtStockQuantity);
             this.Controls.Add(this.txtCarPartName);
             this.Controls.Add(this.txtCarPartID);
@@ -228,7 +228,7 @@
             this.Controls.Add(this.label1);
             this.Name = "CarpartsForm";
             this.Text = "CarpartsForm";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCarParts)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -236,7 +236,7 @@
 
         #endregion
         private System.Windows.Forms.TextBox txtCarPartPrice;
-        private System.Windows.Forms.DataGridView dataGridViewCarParts;
+        private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.TextBox txtStockQuantity;
         private System.Windows.Forms.TextBox txtCarPartName;
         private System.Windows.Forms.TextBox txtCarPartID;

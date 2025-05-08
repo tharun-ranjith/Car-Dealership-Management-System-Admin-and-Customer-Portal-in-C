@@ -19,7 +19,7 @@ namespace AD.Forms
             InitializeComponent();
         }
 
-        SqlConnection con = new SqlConnection("Data Source=DESKTOP-12HBM5L\\SQLEXPRESS;Initial Catalog=ABC;Integrated Security=True");
+        SqlConnection con = new SqlConnection("Data Source=LAPTOP-P7KDLH95\\SQLEXPRESS;Initial Catalog=ABC;Integrated Security=True");
 
 
         private void button1_Click(object sender, EventArgs e)
@@ -144,42 +144,7 @@ namespace AD.Forms
 
         private void button5_Click(object sender, EventArgs e)
         {
-            try
-            {
-                // Define SQL query to select all car parts data
-                string query = "SELECT CarPartID, CarPartName, CarPartPrice, CarPartType, StockQuantity FROM CarpartTable";
 
-                // Use the class-level connection object
-                using (SqlCommand command = new SqlCommand(query, con))
-                {
-                    // Open the connection
-                    con.Open();
-
-                    // Use SqlDataAdapter to fill DataTable
-                    SqlDataAdapter adapter = new SqlDataAdapter(command);
-                    DataTable dataTable = new DataTable();
-                    adapter.Fill(dataTable);
-
-                    // Bind the DataTable to the DataGridView
-                    dataGridViewCarParts.DataSource = dataTable;
-
-                    // Close the connection
-                    con.Close();
-                }
-            }
-            catch (SqlException sqlEx)
-            {
-                MessageBox.Show($"SQL Error: {sqlEx.Message}");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Error: {ex.Message}");
-            }
-            finally
-            {
-                if (con.State == ConnectionState.Open)
-                    con.Close();
-            }
         }
     }
 }

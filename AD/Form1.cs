@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace AD
 {
-    public partial class Form1 : Form
+    public partial class MainForm : System.Windows.Forms.Form
     {
         //fields
         private Button currentButton;
         private Random random;
         private int tempIndex = -1; // Initialize tempIndex
-        private Form activeForm;
+        private System.Windows.Forms.Form activeForm;
 
         //constructor
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             random = new Random();
@@ -78,7 +78,7 @@ namespace AD
             }
         }
 
-        private void OpenchildForm(Form childForm, object btnSender)
+        private void OpenchildForm(System.Windows.Forms.Form childForm, object btnSender)
         {
             if(activeForm != null)
             {
@@ -114,6 +114,11 @@ namespace AD
         private void button4_Click(object sender, EventArgs e)
         {
             OpenchildForm(new Forms.CustomerOrderForm(), sender);
+        }
+
+        private void panelDesktopPane_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

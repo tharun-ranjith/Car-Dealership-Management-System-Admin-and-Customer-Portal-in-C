@@ -45,7 +45,7 @@
             this.txtCarID = new System.Windows.Forms.TextBox();
             this.txtCarModel = new System.Windows.Forms.TextBox();
             this.txtCarColour = new System.Windows.Forms.TextBox();
-            this.dataGridViewCars = new System.Windows.Forms.DataGridView();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.button5 = new System.Windows.Forms.Button();
             this.txtCarMileage = new System.Windows.Forms.TextBox();
             this.cmbEngineType = new System.Windows.Forms.ComboBox();
@@ -53,7 +53,7 @@
             this.txtAvailableQuantity = new System.Windows.Forms.TextBox();
             this.txtCarPrice = new System.Windows.Forms.TextBox();
             this.dateTimePickerCar = new System.Windows.Forms.DateTimePicker();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCars)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -209,15 +209,15 @@
             this.txtCarColour.Size = new System.Drawing.Size(145, 22);
             this.txtCarColour.TabIndex = 16;
             // 
-            // dataGridViewCars
+            // dataGridView1
             // 
-            this.dataGridViewCars.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewCars.Location = new System.Drawing.Point(31, 316);
-            this.dataGridViewCars.Name = "dataGridViewCars";
-            this.dataGridViewCars.RowHeadersWidth = 51;
-            this.dataGridViewCars.RowTemplate.Height = 24;
-            this.dataGridViewCars.Size = new System.Drawing.Size(963, 216);
-            this.dataGridViewCars.TabIndex = 17;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(31, 316);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.Size = new System.Drawing.Size(963, 216);
+            this.dataGridView1.TabIndex = 17;
             // 
             // button5
             // 
@@ -296,7 +296,7 @@
             this.Controls.Add(this.cmbEngineType);
             this.Controls.Add(this.txtCarMileage);
             this.Controls.Add(this.button5);
-            this.Controls.Add(this.dataGridViewCars);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtCarColour);
             this.Controls.Add(this.txtCarModel);
             this.Controls.Add(this.txtCarID);
@@ -316,7 +316,7 @@
             this.Controls.Add(this.label1);
             this.Name = "CarForm";
             this.Text = "CarForm";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCars)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -341,7 +341,7 @@
         private System.Windows.Forms.TextBox txtCarID;
         private System.Windows.Forms.TextBox txtCarModel;
         private System.Windows.Forms.TextBox txtCarColour;
-        private System.Windows.Forms.DataGridView dataGridViewCars;
+        private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.TextBox txtCarMileage;
         private System.Windows.Forms.ComboBox cmbEngineType;
