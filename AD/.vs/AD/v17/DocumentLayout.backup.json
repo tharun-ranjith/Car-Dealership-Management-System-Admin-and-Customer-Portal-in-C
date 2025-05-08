@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Tharun\\source\\repos\\AD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\customer\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|c:\\users\\tharun\\source\\repos\\ad\\ad\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\forms\\customerorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\forms\\customerorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|solutionrelative:ad\\customer\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{270E1522-5B7C-4224-B6B8-BD4CF0A4F301}|AD\\AD.csproj|C:\\Users\\Tharun\\source\\repos\\AD\\ad\\customer\\vieworderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -90,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CustomerOrderForm.cs",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerOrderForm.cs",
               "RelativeDocumentMoniker": "AD\\Forms\\CustomerOrderForm.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CustomerForm.cs",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerForm.cs",
               "RelativeDocumentMoniker": "AD\\Forms\\CustomerForm.cs",
@@ -118,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CarpartsForm.cs",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarpartsForm.cs",
               "RelativeDocumentMoniker": "AD\\Forms\\CarpartsForm.cs",
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\LoginForm.cs",
               "RelativeDocumentMoniker": "AD\\LoginForm.cs",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\LoginForm.cs",
               "RelativeDocumentMoniker": "AD\\LoginForm.cs",
@@ -165,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CustomerOrderForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerOrderForm.cs",
               "RelativeDocumentMoniker": "AD\\Forms\\CustomerOrderForm.cs",
@@ -176,14 +176,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "OrderForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\OrderForm.cs",
               "RelativeDocumentMoniker": "AD\\Customer\\OrderForm.cs",
               "ToolTip": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Customer\\OrderForm.cs [Design]",
               "RelativeToolTip": "AD\\Customer\\OrderForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T15:07:40.035Z"
+              "WhenOpened": "2024-09-06T15:07:40.035Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -199,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CustomerForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CustomerForm.cs",
               "RelativeDocumentMoniker": "AD\\Forms\\CustomerForm.cs",
@@ -222,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CarpartsForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarpartsForm.cs",
               "RelativeDocumentMoniker": "AD\\Forms\\CarpartsForm.cs",
@@ -233,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CarForm.cs",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarForm.cs",
               "RelativeDocumentMoniker": "AD\\Forms\\CarForm.cs",
@@ -276,7 +277,8 @@
               "RelativeToolTip": "AD\\Customer\\OrderForm.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwCcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T04:54:16.863Z"
+              "WhenOpened": "2024-09-07T04:54:16.863Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -313,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CarForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Tharun\\source\\repos\\AD\\AD\\Forms\\CarForm.cs",
               "RelativeDocumentMoniker": "AD\\Forms\\CarForm.cs",
